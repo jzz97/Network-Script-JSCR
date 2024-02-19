@@ -25,3 +25,13 @@ read -p "Enter the Ip address or hostname to trace route to: trace_host"
 echo "tracer router to: $trace_host"
 tracert $remote_host
 echo "......................"
+
+#comprobar el ancho de banda usando el test de velocidad por medio de la CLI de Windows
+read -p "comprobar el ancho de banda con el test de velocidad CLI (y/n): " speedtest_option
+if ["speedtest_option"== "y"]; then 
+./speedtestbyookla_x64
+
+fi 
+echo ".............."
+
+echo "testeo de red completado"
