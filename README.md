@@ -47,7 +47,7 @@ HTML, GIT, MARKDOWN, GITHUB and SHELLSCRIPT
     <li><a href="https://www.w3schools.com/html/html_intro.asp">HTML</a></li>
     </ul>
 
-<details>
+
 <summary>Markdown</summary>
 <ul>
 <li><a href="https://www.markdownguide.org/basic-syntax/">Markdown</a></li>
@@ -225,3 +225,4 @@ Feel free to check out the [Issues](https://github.com/jzz97/Network-Script-JSCR
 ### 📄 **License** <a name="license"></a>
 
 This project is released under the [MIT](https://www.mit.edu/~amini/LICENSE.md) license.
+
