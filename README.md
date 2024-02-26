@@ -190,7 +190,7 @@ python -m unittest test_module.TestClass
 
 You can deploy using your local enviroment
 
-<a href="readme-top">Back to the top</a>
+<a href="readme-top">Back to top</a>
 
 ### 🤓☝️ **Author(s)** <a name="Author(s)"></a>
 
