@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img src="logo1.jpg" alt="logo1" width="180"
-height="auto" border-radius="75" />
-<br/>
 <h1><b>Network Script Project</b>
 
 </div>
