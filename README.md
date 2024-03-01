@@ -150,6 +150,12 @@ git merge <branch>
 git config --global --list
 ```
 
+-To abort the merge process and try to reconstruct the pre-merge state
+
+```sh
+git merge --abort
+```
+
 ### ✅ **Getting Started** <a name="getting-started"></a>
 
 To get a local copy up and running follow these steps:
